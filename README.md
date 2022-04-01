@@ -7,3 +7,5 @@ HTML Skills
 * Using the paragraph and text formatting element
 * Using the list element
 * Using the Link and Image element
+* Basic Git and Github Skills 
+
